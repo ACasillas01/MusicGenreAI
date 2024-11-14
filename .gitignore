@@ -1,0 +1,5 @@
+fma_small
+.env
+fma_metadata
+*.zip
+__pycache__

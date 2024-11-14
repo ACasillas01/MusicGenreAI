@@ -1,0 +1,1 @@
+AUDIO_DIR=./fma_small/  # the path to a decompressed fma_*.zip
