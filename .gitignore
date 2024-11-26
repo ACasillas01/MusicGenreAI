@@ -3,3 +3,4 @@ fma_small
 fma_metadata
 *.zip
 __pycache__
+*.keras
